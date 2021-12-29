@@ -10,7 +10,7 @@ In this study, I have created from this dataset three pivot charts:
 1)	A bar chart showing the count of successful, failed, cancelled and live campaigns based on their categories.
  ![category-stats](/Images/category-stats.png)
 2)	A bar chart showing the count of successful, failed, cancelled and live campaigns based on their sub-categories.
- ![subcategorystats](/Images/SubcategoryStats.png)
+ ![subcategorystats](/Images/subcategorystats.png)
 
 3)	A line chart showing the count of successful, failed and cancelled projects based on the month of the year
  ![line-chart](/Images/line-chart.png)
